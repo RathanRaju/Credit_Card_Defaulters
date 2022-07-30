@@ -22,7 +22,7 @@ In this kernel we will use various predictive models to see how accurate they ar
 
 ## Understanding our data
 
-Imbalanced Data - 
+![alt text](https://github.com/RathanRaju/Credit_Card_Defaulters/blob/main/Imbalanced_Data.png "Imbalanced Data")
 
 - No Frauds 99.83 % of the dataset
 - Frauds 0.17 % of the dataset
