@@ -30,12 +30,16 @@ Imbalanced Data - ![alt text](https://github.com/RathanRaju/Credit_Card_Defaulte
 
 ## Preprocessing
 
-Distributions - 
+Distributions 
+
+![alt text](https://github.com/RathanRaju/Credit_Card_Defaulters/blob/main/Distribution%20of%20Transcation%20Amount%20and%20Time.png "Distributions")
 
 - By seeing the distributions we can have an idea how skewed are these features, we can also see further distributions of the other features.
 
 
-Equally Distributing and Correlating by taking the subset from the original data.
+Equally Distributing and Correlating by taking the subset from the original data
+
+![alt text](https://github.com/RathanRaju/Credit_Card_Defaulters/blob/main/Equally%20Distributed%20Classes.png "Equally Distributing")
 
 
 Distribution of the Classes in the subsample dataset
@@ -43,24 +47,37 @@ Distribution of the Classes in the subsample dataset
 0    0.5
 
 
-Imbalanced Correlation Matrix - 
+Imbalanced Correlation Matrix 
+
+![alt text](https://github.com/RathanRaju/Credit_Card_Defaulters/blob/main/Imbalanced%20Correlation%20Matrix.png "Imbalanced Correlation Matrix")
 
 
 ## Classifiers
 
-ROC Curve of Top 4 Classifiers - 
+ROC Curve of Top 4 Classifiers 
 
+![alt text](https://github.com/RathanRaju/Credit_Card_Defaulters/blob/main/ROC%20Curve.png "ROC Curve of Top 4 Classifiers ")
 
 
 ## Random UnderSampling and Oversampling
 
-UnderSampling Precision-Recall curve - 
+UnderSampling Precision-Recall curve
 
-OverSampling Precision-Recall curve - 
+![alt text](https://github.com/RathanRaju/Credit_Card_Defaulters/blob/main/UnderSampling.png "UnderSampling Precision-Recall curve ")
+
+
+OverSampling Precision-Recall curve
+
+![alt text](https://github.com/RathanRaju/Credit_Card_Defaulters/blob/main/OverSampling.png "OverSampling Precision-Recall curve ")
+
+
 
 ## Testing
 
-Confusion Matrix of all the Classification Models - 
+Confusion Matrix of all the Classification Models
+
+![alt text](https://github.com/RathanRaju/Credit_Card_Defaulters/blob/main/Classification_Models.png "Classification Models ")
+
 
 ## Conclusion
 
