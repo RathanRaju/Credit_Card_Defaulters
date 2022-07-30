@@ -1,4 +1,4 @@
-# Credit_Card_Defaulters
+# Credit Card Defaulters
 
 - Dataset Link - https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets/data
 
@@ -43,8 +43,8 @@ Equally Distributing and Correlating by taking the subset from the original data
 
 
 Distribution of the Classes in the subsample dataset
-1    0.5
-0    0.5
+- No Frauds 50 % of the dataset
+- Frauds 50 % of the dataset
 
 
 Imbalanced Correlation Matrix 
@@ -81,5 +81,11 @@ Confusion Matrix of all the Classification Models
 
 ## Conclusion
 
-The best-performing models were logistic regression and support vector classifier (SVM). Furthermore, the Random UnderSampling and OverSampling (SMOTE) method yielded accuracy scores of 94.21 and 98.70. Implementing SMOTE on our unbalanced dataset assisted us in dealing with label imbalance (more no fraud than fraud transactions). Assume that consumers who were making regular transactions had their cards stopped because our model categorised the transaction as fraudulent; this would be a big disadvantage for the banking institution. The quantity of client complaints and dissatisfaction will grow.
+- The best-performing models were logistic regression and support vector classifier (SVM). 
+
+- Furthermore, the Random UnderSampling and OverSampling (SMOTE) method yielded accuracy scores of 94.21 and 98.70. 
+
+- Implementing SMOTE on our unbalanced dataset assisted us in dealing with label imbalance (more no fraud than fraud transactions). 
+
+- Assume that consumers who were making regular transactions had their cards stopped because our model categorised the transaction as fraudulent. this would be a big disadvantage for the banking institution. The quantity of client complaints and dissatisfaction will grow.
 
